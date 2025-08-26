@@ -1,0 +1,3 @@
+# Test file with invalid number format
+# id; parentId; name; type; size; classification; checksum;
+not-a-number;2;test-file;file;100;Public;abc;

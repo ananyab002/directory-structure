@@ -1,0 +1,4 @@
+# Test file with insufficient columns
+# id; parentId; name; type; size; classification; checksum;
+1;2;test-file
+2;3;another-file;file

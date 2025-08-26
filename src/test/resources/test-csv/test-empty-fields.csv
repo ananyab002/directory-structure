@@ -1,0 +1,8 @@
+# Files with empty classifications and checksums
+# id; parentId; name; type; size; classification; checksum;
+1;;root;directory;;;;
+2;1;file1;file;100;;;
+3;1;file2;file;;;;
+4;1;folder;directory;;;;
+5;4;file3;file;;Public;;
+6;1;file4;file;200;;

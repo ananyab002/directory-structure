@@ -1,0 +1,11 @@
+name = folder2, type = Directory, size = 400
+ name = file4, type = File, size = 40, classification = Secret, checksum = 42
+ name = folder11, type = Directory, size = 360
+  name = folder10, type = Directory, size = 170
+   name = file8, type = File, size = 80, classification = Secret, checksum = 42
+   name = file9, type = File, size = 90, classification = Top secret, checksum = 42
+  name = folder3, type = Directory, size = 190
+   name = file1, type = File, size = 10, classification = Secret, checksum = 42
+   name = file5, type = File, size = 50, classification = Public, checksum = 42
+   name = file6, type = File, size = 60, classification = Secret, checksum = 42
+   name = file7, type = File, size = 70, classification = Public, checksum = 42

@@ -1,0 +1,4 @@
+name = file1, type = File, size = 10, classification = Secret, checksum = 42
+name = file6, type = File, size = 60, classification = Secret, checksum = 42
+name = file8, type = File, size = 80, classification = Secret, checksum = 42
+name = file9, type = File, size = 90, classification = Top secret, checksum = 42
